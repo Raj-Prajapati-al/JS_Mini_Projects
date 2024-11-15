@@ -1,2 +1,1 @@
-# BCA_Projects
-Projects in PHP 
+#Some JavaScript Mini Projects
